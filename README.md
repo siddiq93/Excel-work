@@ -1,1 +1,1 @@
-# Excel-work
+Analayzed Bike Data Set in Excel. Created Dashbaord to visualize data. Cleaned data to ensure there were no duplicates. From the data many higher educated people own bikes compared to high school or partial college students.
